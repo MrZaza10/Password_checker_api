@@ -1,0 +1,15 @@
+# ambiente virtual
+venv/
+.env
+
+# caches
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# logs
+*.log
